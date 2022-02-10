@@ -1,20 +1,31 @@
+<!DOCTYPE html>
 <html>
+ <head>
 
 
+<meta charset="UFT-8">
 <title>REHAN WANGSAF</title>
-<link href="idfk.css" rel="stylesheet" type="text/css">
-<h1 style="font-family:impact;font-size:400%;text-align:center;color:black;"><center> REHAN WANGSAF </center> </h1>
+<link rel=stylesheet href="idfk.css">
 
-  
+</head>
+
+
+
+<style>
+
+</style>
+<h1>REHAN WANGSAF</h1>
+<body>
+
+
+<style></style>
 <main>
- <center>
-  <div>
+  <div style="position: relative; bottom:-200px; left:-775px; width:0px; height:0px">
 
-  <iframe width="1280" height="720" src="https://www.youtube.com/embed/gk0risN78pQ?controls=0&autoplay=1&showinfo=0&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe width="1024" height="576" src="https://www.youtube.com/embed/gk0risN78pQ?controls=0&autoplay=1&showinfo=0&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     
   </iframe>
   </div>
- </center>
   </main>
   
  <audio controls loop style="display:none" id="my_audio">
@@ -23,6 +34,10 @@
   <script>
     document.getElementById('my_audio').play();
   </script>
+</body>
+
+
+  
 
 
 
