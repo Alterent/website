@@ -30,7 +30,7 @@
   </div>
   </main>
   
- <audio id="audio" controls loop style="display:none" id="my_audio">
+ <audio controls loop style="display:none" id="my_audio">
       <source src="https://drive.google.com/uc?id=1YJJFVE17E8JTrMs7JefxxCPsJmdTBhaq&export=download" type="audio/mpeg">
   </audio>
   <script>
@@ -47,17 +47,8 @@
   function autoplay(){
       var r =confirm("Halo bang");
       if (r == true) {
-          document.getElementById("audio").play();
+          document.getElementById("my_audio").play();
       }
     }
   </script>
   <script>autoplay();</script> 
-
-
-
-
-
-  
-
-
-
