@@ -1,12 +1,11 @@
 <html>
-<head>
 
 
 <title>REHAN WANGSAF</title>
 <link href="idfk.css" rel="stylesheet" type="text/css">
 <h1 style="font-family:impact;font-size:400%;text-align:center;color:black;"><center> REHAN WANGSAF </center> </h1>
-  </head>
-<body>
+
+  
 <main>
   <div>
     
@@ -15,4 +14,4 @@
   </iframe>
   </div>
   </main>
-  </body>
+
